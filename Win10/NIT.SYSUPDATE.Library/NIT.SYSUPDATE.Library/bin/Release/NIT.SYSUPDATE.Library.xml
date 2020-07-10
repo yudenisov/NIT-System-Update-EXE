@@ -1,0 +1,93 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NIT.SYSUPDATE.Library
+</name>
+</assembly>
+<members>
+<member name="T:NIT.SYSUPDATE.Library.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:NIT.SYSUPDATE.Library.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:NIT.SYSUPDATE.Library.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:NIT.SYSUPDATE.Library.Ini.IniFile.WritePrivateProfileString(System.String,System.String,System.String,System.String)">
+ <summary>
+ Записывает ключ в заданный раздел INI-файла.
+ </summary>
+ <param name="section">Имя раздела.</param>
+ <param name="key">Имя ключа.</param>
+ <param name="value">Значение ключа.</param>
+ <param name="filePath">Путь к INI-файлу.</param>
+</member>
+<member name="M:NIT.SYSUPDATE.Library.Ini.IniFile.GetPrivateProfileString(System.String,System.String,System.String,System.Text.StringBuilder,System.Int32,System.String)">
+ <summary>
+ Считывает ключ заданного раздела INI-файла.
+ </summary>
+ <param name="section">Имя раздела.</param>
+ <param name="key">Имя ключа.</param>
+ <param name="[default]"></param>
+ <param name="retVal"></param>
+ <param name="size"></param>
+ <param name="filePath">Путь к INI-файлу.</param>
+ <remarks>С помощью конструктора записываем путь до файла и его имя. </remarks>
+</member>
+<member name="F:NIT.SYSUPDATE.Library.Ini.IniFile.IniPath">
+ <summary>
+ Имя файла.
+ </summary>
+</member>
+<member name="M:NIT.SYSUPDATE.Library.Ini.IniFile.#ctor(System.String)">
+ <summary>
+ Читаем ini-файл и возвращаем значение указного ключа из заданной секции. 
+ </summary>
+ <param name="iniPath"></param>
+</member>
+<member name="M:NIT.SYSUPDATE.Library.Ini.IniFile.KeyExists(System.String,System.String)">
+ <summary>
+ Проверяет, что заданный ключ существует в INI-файле.
+ </summary>
+ <param name="section">Имя раздела.</param>
+ <param name="key">Имя ключа.</param>
+</member>
+<member name="M:NIT.SYSUPDATE.Library.Ini.IniFile.ReadKey(System.String,System.String)">
+ <summary>
+ Читает значение заданного ключа в заданном разделе INI-файла.
+ </summary>
+ <param name="section">Имя раздела.</param>
+ <param name="key">Имя ключа.</param>
+</member>
+<member name="M:NIT.SYSUPDATE.Library.Ini.IniFile.WriteKey(System.String,System.String,System.String)">
+ <summary>
+ Создаёт заданный ключ в заданном разделе. Если раздел не существует, он будет создан.
+ </summary>
+ <param name="section">Имя раздела.</param>
+ <param name="key">Имя ключа.</param>
+ <param name="value">Значение ключа. Если NULL, то ключ будет удалён. Если String.Empty, то присвоится пустое значение.</param>
+</member>
+<member name="M:NIT.SYSUPDATE.Library.Ini.IniFile.DeleteKey(System.String,System.String)">
+ <summary>
+ Удаляет заданный ключ из заданного раздела INI-файла.
+ </summary>
+ <param name="section">Имя раздела.</param>
+ <param name="key">Имя ключа.</param>
+</member>
+<member name="M:NIT.SYSUPDATE.Library.Ini.IniFile.DeleteSection(System.String)">
+ <summary>
+ Удаляет заданный раздел INI-файла.
+ </summary>
+ <param name="section">Имя раздела.</param>
+</member>
+</members>
+</doc>

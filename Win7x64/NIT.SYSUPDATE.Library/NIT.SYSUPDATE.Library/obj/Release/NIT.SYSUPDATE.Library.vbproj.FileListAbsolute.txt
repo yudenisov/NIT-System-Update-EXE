@@ -1,0 +1,9 @@
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\bin\Release\NIT.SYSUPDATE.Library.dll
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\bin\Release\NIT.SYSUPDATE.Library.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\bin\Release\NIT.SYSUPDATE.Library.xml
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.Resources.resources
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.vbproj.GenerateResource.cache
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.vbproj.CoreCompileInputs.cache
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.dll
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.xml
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.pdb

@@ -1,0 +1,14 @@
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\bin\Release\regprogram.exe
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\bin\Release\regprogram.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\bin\Release\regprogram.xml
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\bin\Release\NIT.SYSUPDATE.Library.dll
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\bin\Release\NIT.SYSUPDATE.Library.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\bin\Release\NIT.SYSUPDATE.Library.xml
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\obj\Release\regprogram.vbprojAssemblyReference.cache
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\obj\Release\regprogram.Resources.resources
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\obj\Release\regprogram.vbproj.GenerateResource.cache
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\obj\Release\regprogram.vbproj.CoreCompileInputs.cache
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\obj\Release\regprogram.vbproj.CopyComplete
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\obj\Release\regprogram.exe
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\obj\Release\regprogram.xml
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Solution1\regprogram.exe\obj\Release\regprogram.pdb

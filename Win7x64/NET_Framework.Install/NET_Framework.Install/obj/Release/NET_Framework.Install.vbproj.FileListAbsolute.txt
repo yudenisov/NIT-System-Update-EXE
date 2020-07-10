@@ -1,0 +1,14 @@
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\bin\Release\NET_Framework.Install.exe
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\bin\Release\NET_Framework.Install.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\bin\Release\NET_Framework.Install.xml
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\bin\Release\NIT.SYSUPDATE.Library.dll
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\bin\Release\NIT.SYSUPDATE.Library.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\bin\Release\NIT.SYSUPDATE.Library.xml
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.vbprojAssemblyReference.cache
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.Resources.resources
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.vbproj.GenerateResource.cache
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.vbproj.CoreCompileInputs.cache
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.vbproj.CopyComplete
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.exe
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.xml
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.pdb
