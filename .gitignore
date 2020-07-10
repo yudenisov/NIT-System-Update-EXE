@@ -1,0 +1,41 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Execution and archieve files
+*.exe
+*.dll
+*.zip
+*.rar
+*.7z
+
+# Auxiliary Files
+*.obj
+*.wixobj
+*.wixpdb
+*.tmp
+*.log
+*.bak
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+.svn
+.vs/
+obj/
