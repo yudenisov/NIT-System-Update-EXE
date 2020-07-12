@@ -177,10 +177,10 @@ Namespace InstallUpdateWindows
                                 szBuild = iniFile.ReadKey(szSection, BUILD_PROGRAM)
                                 If (StrComp(szExtension, ".bat", 0) = 0 Or StrComp(szExtension, ".cmd", 0) = 0) And StrComp(szBuild, BUILD_BAT, 0) = 0 Then
                                     Console.WriteLine("Build Program = {0}", BUILD_BAT)
-                                    'MsgBox("C:\Windows\System32\cmd.exe /c cd /d " & Chr(34) & szPath & Chr(34) & " && " & Chr(34) & szPath & "\" & szLocalFile & Chr(34))
+                                    'MsgBox("C:\Windows\System32\cmd.exe /c " & Chr(34) & szPath & "\" & szLocalFile & Chr(34))
                                     ' Attention!!!
                                     Dim myProcess As Process
-                                    myProcess = System.Diagnostics.Process.Start("C:\Windows\System32\cmd.exe", " /c cd /d " & Chr(34) & szPath & Chr(34) & " && " & Chr(34) & szPath & "\" & szLocalFile & Chr(34))
+                                    myProcess = System.Diagnostics.Process.Start("C:\Windows\System32\cmd.exe", "/c " & Chr(34) & szPath & "\" & szLocalFile & Chr(34))
                                     myProcess.WaitForExit()
                                     myProcess.Close()
                                     Console.WriteLine(" ")

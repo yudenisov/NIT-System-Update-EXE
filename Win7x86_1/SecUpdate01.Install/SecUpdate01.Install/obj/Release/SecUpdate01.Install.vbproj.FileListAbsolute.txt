@@ -11,4 +11,3 @@ C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\SecUpdate01.Inst
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\SecUpdate01.Install\SecUpdate01.Install\obj\Release\SecUpdate01.Install.exe
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\SecUpdate01.Install\SecUpdate01.Install\obj\Release\SecUpdate01.Install.xml
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\SecUpdate01.Install\SecUpdate01.Install\obj\Release\SecUpdate01.Install.pdb
-C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\SecUpdate01.Install\SecUpdate01.Install\obj\Release\SecUpdate01.Install.vbprojAssemblyReference.cache

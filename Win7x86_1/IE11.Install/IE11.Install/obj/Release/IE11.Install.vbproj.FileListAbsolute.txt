@@ -11,3 +11,4 @@ C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\IE11.Install\IE1
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\IE11.Install\IE11.Install\obj\Release\IE11.Install.exe
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\IE11.Install\IE11.Install\obj\Release\IE11.Install.xml
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\IE11.Install\IE11.Install\obj\Release\IE11.Install.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\IE11.Install\IE11.Install\obj\Release\IE11.Install.vbprojAssemblyReference.cache

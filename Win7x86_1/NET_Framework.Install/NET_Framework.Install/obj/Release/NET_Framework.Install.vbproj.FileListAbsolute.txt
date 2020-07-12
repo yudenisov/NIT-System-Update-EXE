@@ -11,3 +11,4 @@ C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\NET_Framework.In
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.exe
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.xml
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\NET_Framework.Install\NET_Framework.Install\obj\Release\NET_Framework.Install.vbprojAssemblyReference.cache

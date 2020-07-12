@@ -4,7 +4,6 @@ C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Other
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\bin\Release\NIT.SYSUPDATE.Library.dll
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\bin\Release\NIT.SYSUPDATE.Library.pdb
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\bin\Release\NIT.SYSUPDATE.Library.xml
-C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\obj\Release\Others.Install.vbprojAssemblyReference.cache
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\obj\Release\Others.Install.Resources.resources
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\obj\Release\Others.Install.vbproj.GenerateResource.cache
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\obj\Release\Others.Install.vbproj.CoreCompileInputs.cache
@@ -12,3 +11,4 @@ C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Other
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\obj\Release\Others.Install.exe
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\obj\Release\Others.Install.xml
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\obj\Release\Others.Install.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win10\Others.Install\Others.Install\obj\Release\Others.Install.vbprojAssemblyReference.cache

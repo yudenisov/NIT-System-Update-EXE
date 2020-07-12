@@ -7,3 +7,4 @@ C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Libr
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.dll
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.xml
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x64\NIT.SYSUPDATE.Library\NIT.SYSUPDATE.Library\obj\Release\NIT.SYSUPDATE.Library.vbprojAssemblyReference.cache

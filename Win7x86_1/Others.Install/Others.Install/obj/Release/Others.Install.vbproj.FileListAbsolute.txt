@@ -11,3 +11,4 @@ C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\Others.Install\O
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\Others.Install\Others.Install\obj\Release\Others.Install.exe
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\Others.Install\Others.Install\obj\Release\Others.Install.xml
 C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\Others.Install\Others.Install\obj\Release\Others.Install.pdb
+C:\Users\yuden\source\repos\New_Internet_Technologies\Win7x86_1\Others.Install\Others.Install\obj\Release\Others.Install.vbprojAssemblyReference.cache
