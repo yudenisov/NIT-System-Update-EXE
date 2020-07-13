@@ -28,7 +28,7 @@ Module Module1
         Dim iResult As Integer
         iResult = 0
         Const Section_Name1 As String = "windows6.1-kb4019990-x64"
-        Const Section_Name2 As String = "Win7-KB3191566-x64"
+        Const Section_Name2 As String = "Win7AndW2K8R2-KB3191566-x64"
         Dim IWU As New InstallUpdateWindows.InstallUpdateWindows
         IWU.InstallWindowsUpdate(Section_Name1, UPDATE_WMF_SECTION)
         iResult = IWU.Is_IResult_0(iResult)

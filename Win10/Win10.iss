@@ -8,7 +8,7 @@ DefaultDirName=C:\ProgramData\NIT\10
 AllowRootDirectory=True
 SolidCompression=True
 OutputDir=D:\Download
-OutputBaseFilename=Win10
+OutputBaseFilename=Nit.Win10
 ArchitecturesAllowed=x86 x64
 MinVersion=0,6.2
 
@@ -31,4 +31,4 @@ Name: "{app}\Distrib"
 Filename: "{app}\delete_uninstall.cmd"; WorkingDir: "{app}"; Flags: shellexec skipifdoesntexist runhidden
 
 [Run]
-Filename: "{app}\runregprogram.vbs"
+Filename: "{app}\regprogram.exe"

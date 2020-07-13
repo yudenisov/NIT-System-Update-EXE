@@ -19,7 +19,7 @@ Set WshShell = CreateObject("WScript.Shell")
 CurrentPath = fso.GetParentFolderName(WScript.ScriptFullName)
 STRFULLREGPROGRAM = CurrentPath & "\regprogram.exe"
 If fso.FileExists(STRFULLREGPROGRAM) Then
-  WshShell.RegWrite REGISTRY_KEY & "\" & "1", Chr(34) & STRFULLREGPROGRAM & Chr(34), "REG_SZ" 
+  WshShell.RegWrite REGISTRY_KEY_EX & "\" & "1", Chr(34) & STRFULLREGPROGRAM & Chr(34), "REG_SZ" 
 Else
   WScript.Echo "Installation Abnormal! Quit." & vbCrLf & "Инсталляция неуспешная! Выход."  & vbCrLf
 End If

@@ -8,7 +8,7 @@ DefaultDirName=C:\ProgramData\NIT\7x64
 AllowRootDirectory=True
 SolidCompression=True
 OutputDir=D:\Download
-OutputBaseFilename=Win7x64
+OutputBaseFilename=Nit.Win7x64
 ArchitecturesInstallIn64BitMode=x64
 ArchitecturesAllowed=x64
 MinVersion=0,6.1
@@ -43,4 +43,4 @@ Name: "{app}\Distrib"
 Filename: "{app}\delete_uninstall.cmd"; WorkingDir: "{app}"; Flags: shellexec skipifdoesntexist runhidden
 
 [Run]
-Filename: "{app}\runregprogram.vbs"
+Filename: "{app}\regprogram.exe"
